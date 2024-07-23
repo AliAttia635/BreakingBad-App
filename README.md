@@ -1,0 +1,2 @@
+- Used Flutter with BLoC pattern to show some info. about my favorite series :clapper: Breaking Bad.
+- Played with some fancy UI widgets.
